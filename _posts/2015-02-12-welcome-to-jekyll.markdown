@@ -6,7 +6,9 @@ categories: jekyll update
 ---
 
 `Rank your 5 favorite, and least favorite, activities from this list:`
+
 Favorite:
+
 (1) Help train and onboard new support teammates.
 (2) Manage a support team.
 (3) Work with the development team to help design a new feature based on feedback from customers.
