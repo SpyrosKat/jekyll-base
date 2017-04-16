@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Netlify
+title: Redirects For You
 permalink: /netlify/
 ---
 
