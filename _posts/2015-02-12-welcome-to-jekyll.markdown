@@ -55,6 +55,7 @@ I liked the job posting, it was clear, easy to understand, and easy to apply. I 
 
 `Provide a link to documentation for a technical/developer-focused product, that you think are well done, and briefly explain why you think they are well done.`
 
+I'm not particularly well-read when it comes to developer-focused products, but one I think is well done is the Cisco Spark documentation located here: https://developer.ciscospark.com/getting-started.html ; All of the documentation here is formatted very nicely. From the index on the left, to the use of font formatting such as bold, underlines, and headers, the information is laid out in such a way that is easy on the eyes. I also appreciate that the explanations are clear and written out with words and descriptions that are simple and easy to understand.
 
 `Why do you think SSL/HTTPS is important?`
 
@@ -63,9 +64,12 @@ SSL is important because in the modern world, people need secure connections to 
 
 `Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users:`
 
+One major challange based on my experience in IT support is understanding, most end-users don't know that DNS stand for Domain Name Server, and then do not understand what a Domain Name Server is or what it does. In many cases, if you try to configure DNS as an end-user, you will not run into any explanations or descriptions of how to configure it. You will have to track down that information. Beyond that, another challange I see is accessibility. End-users often don't know how to access their DNS configuration settings, or even if they are told where to go, there may be locks or passwords preventing them from making changes, and often times they will not know or remember the password.
 
 `A customer writes in saying their “site won’t build”.  Compose your best short (2-paragraph) customer-facing answer without any additional data, that could be useful in the generic case but would also lead to a customer providing a more actionable response.`
 
+Well that's not good! I'm very sorry to hear that you're having trouble with your site, but don't worry, I'm here to help you. I'll need to ask for a little more detail on the issue you're having. Did your site build in the past, and if so, can you think of any changes that were made before the build failure? If you are getting any specific error messages or codes, please relay them to me. Also, if possible, please send me a copy of your build log so that I can take a closer look at the issue. Thanks!
 
 `(optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?`
 
+Yes.
