@@ -6,8 +6,5 @@ permalink: /netlify/kittens/
 
 This page should redirect you to a Google search of Kittens!
 
-<?php
-header("HTTP/1.1 301 Moved Permanently");
-header("Location: https://www.google.com/search?q=kittens");
-exit();
-?> 
+<meta http-equiv="refresh" content="0; url=https://www.google.com/search?q=Kittens">
+<link rel="canonical" href="https://www.google.com/search?q=Kittens" />
